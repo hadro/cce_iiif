@@ -1,4 +1,3 @@
-
         {
             "@context":"http://iiif.io/api/presentation/2/context.json",
             "@id":"https://raw.githubusercontent.com/hadro/cce_iiif/master/result.json",
@@ -767,4 +766,3 @@
                     }
             ]
         }
-    
