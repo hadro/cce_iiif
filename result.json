@@ -1,0 +1,770 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8888/examples/anno_list.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"All’s well."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=171,433,347,59"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"The choice of the crowd; being a collection of those"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=253,535,1923,72"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"poems appearing in “All’s well” which met with the approval of the readers. Fayetteville, Ark., The Golden"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=174,612,2001,153"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"horseman press, 1922."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=168,770,772,72"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"xii p., 1 l., 66 p. 17½ ͨͫ ."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=244,860,621,55"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"© May 1, 1922; 2c. June 12; aff. Jan. 8, 1923; A 690974; Charles J. Finger,"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=174,906,2002,79"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Fayetteville, Ark. (23-1029)"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=243,987,767,53"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"American electrochemical society."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=173,1102,1196,73"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Transactions of the American electrochemical society."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=253,1208,1906,70"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"v. 41. 41st general meeting, Baltimore, Md., April 27,"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=228,1286,1947,74"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"28 and 29, 1922. New York city, The American electrochemical society, 1923."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=174,1364,1978,151"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"viii, 416 p. front. (double ports.) illus., diagrs. 23 ½ ͨͫ ."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=241,1533,1451,53"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"© Feb. 9, 1923; 2c. and aff. Feb. 12; A 698259; A. D. Spillman, asst. sec."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=170,1602,2006,56"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"of the Amer. electrochemical soc., New York."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=241,1660,1211,52"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"American railway association. Mechanical division."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=170,1773,1890,74"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Locomotive cyclopedia of American practice; defini tions and typical illustrations of locomotives, their parts"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=172,1880,2004,152"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"and equipment; descriptions and illustrations of the tools"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=173,2036,2001,73"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"and methods employed in their construction and repair;"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=173,2114,2001,74"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"locomotives built in America for industrial operations"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=171,2192,2004,73"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"and for foreign railroads. 6th ed.—1922. Comp. and ed."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=170,2270,2004,74"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"for the American railway association—Division v, Mechanical (formerly American railway master mechanics"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=172,2348,2004,149"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"association) Editor: Boy V . Wright … managing editor: Charles N. Winter … New York, N. Y., Chicago,"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=172,2503,2001,156"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Ill. [etc.] Simmons-Boardman publishing company"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=169,2661,2003,74"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"[ c 1922]"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=172,2742,201,72"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"1155 p. illus., diagrs. 30½ ͨͫ ."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=243,2830,770,55"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Earlier editions, by American railway master mechanics’ association, have"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=242,2900,1933,57"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"title: Locomotive dictionary."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=170,2958,750,53"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"© Dec. 27, 1922; 2c. Jan. 8, 1923; aff. Jan. 9; A 690966; Simmons-Boardman"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=168,3027,2004,55"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"pub. co. (23-1061)"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=239,3084,505,55"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Ames, William Homer, 1876–"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=170,3199,993,71"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"100 master speeches for the use of orators, students and"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=250,3305,1924,70"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"teachers, officers and members of clubs, societies and"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=172,3381,1873,73"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"organizations, business and professional men. A treasury"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=172,3406,2003,129"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"of the world’s best thought on questions of to-day, by"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=174,3537,2000,76"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"William Homer Ames, PH. B., and Paul A. Miller … Harrisburg, Pa., Pub. by The Evangelical press for Public"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=171,3614,2002,150"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"speakers’ society [ c 1922]"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=173,3768,826,73"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"272 p. 23½ ͨͫ ."
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=235,3860,359,54"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"© Nov. 25, 1922; 2c. Dec. 14; aff. Jan. 10, 1923; A 690995; George A. Farrell, Harrisburg, Pa. (23-1464)"
+                        },
+                        "on":"https://iiif.archivelab.org/iiif/catalogofcopy201libr$9/canvas#xywh=170,3927,1980,110"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://iiif.archivelab.org/iiif/catalogofcopy201libr/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    
